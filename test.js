@@ -1,0 +1,5 @@
+console.log("Hello World")
+console.log("Hello Pakistan")
+console.log("Hello India")
+console.log("Hello America")
+console.log("Hello England")
